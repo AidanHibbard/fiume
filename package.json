@@ -1,0 +1,12 @@
+{
+  "name": "fiume",
+  "version": "0.0.1",
+  "description": "Break tasks into simple actions",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test:unit": "node --test"
+  },
+  "author": "Aidan Hibbard",
+  "license": "MIT"
+}
